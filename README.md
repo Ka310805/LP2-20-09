@@ -1,1 +1,2 @@
-# LP2-20-09
+# 2EMIA
+Repositório de aula.
